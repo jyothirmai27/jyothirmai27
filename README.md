@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jyothirmai27
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - jyothirmaivadlamudi50@gmail.com
 
 
