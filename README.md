@@ -2,7 +2,7 @@
 
 💻 Proficient in various programming languages including C, C++, Python, and Java, I enjoy exploring their different paradigms and leveraging them to build efficient and elegant solutions. I'm constantly expanding my knowledge and keeping up with the latest developments in the field.
 
-🔬 Currently, I'm gaining invaluable experience as an intern at Signify (formerly known as Philips Lighting), where I have the opportunity to apply my skills and learn from industry professionals. It's an exciting journey that allows me to dive deeper into the world of software engineering and contribute to meaningful projects.
+🔦 Currently, I'm working at Signify (formerly known as Philips Lighting)., where I have the opportunity to apply my skills and learn from industry professionals. It's an exciting journey that allows me to dive deeper into the world of software engineering and contribute to meaningful projects.
 
 ✨ Beyond my professional pursuits, coding is not just a job for me—it's a genuine passion. I find joy in tackling complex problems, optimizing algorithms, and building robust applications. I'm always eager to collaborate with like-minded individuals and contribute to open-source projects.
 
